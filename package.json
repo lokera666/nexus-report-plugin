@@ -11,7 +11,7 @@
     "watch": "webpack --config webpack.dev.js  --watch"
   },
   "dependencies": {
-    "@babel/runtime": "=7.6.0",
+    "@babel/runtime": "7.19.0",
     "@fortawesome/fontawesome-svg-core": "=1.2.19",
     "@fortawesome/free-solid-svg-icons": "=5.9.0",
     "@xstate/react": "=1.0.0-rc.3",
